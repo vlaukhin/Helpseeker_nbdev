@@ -2,9 +2,23 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"config_file_path": "StatsCanadaCore.ipynb",
+         "f": "StatsCanadaCore.ipynb",
+         "config": "StatsCanadaCore.ipynb",
+         "stats_can_regions": "StatsCanadaCore.ipynb",
+         "stats_can_feature_by_ids_dir": "StatsCanadaCore.ipynb",
+         "target_path": "StatsCanadaCore.ipynb",
+         "target_features": "StatsCanadaCore.ipynb",
+         "feature_encoding_map_dir": "StatsCanadaCore.ipynb",
+         "polygon_path": "StatsCanadaCore.ipynb",
+         "target_df_regions": "StatsCanadaCore.ipynb",
+         "add_timestamp": "StatsCanadaCore.ipynb",
+         "logging_setup": "StatsCanadaCore.ipynb",
+         "get_target_df": "StatsCanadaCore.ipynb"}
 
-modules = []
+modules = ["config.py",
+           "logging.py",
+           "TargetValuesPreprocessing.py"]
 
 doc_url = "https://byz007.github.io/Helpseeker NBdev Preprocessing/"
 
