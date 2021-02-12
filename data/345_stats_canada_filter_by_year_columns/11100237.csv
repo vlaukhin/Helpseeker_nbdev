@@ -1,0 +1,904 @@
+Year,GEO,After-tax income#Economic families#Median income#2018 constant dollars#units#11100237_StatsCanada
+1976,Alberta,69300
+1976,Atlantic provinces,52900
+1976,British Columbia,69600
+1976,"Calgary, Alberta",78100
+1976,Canada,63800
+1976,"Edmonton, Alberta",72400
+1976,Manitoba,57600
+1976,"Montréal, Quebec",62200
+1976,New Brunswick,53900
+1976,Newfoundland and Labrador,50100
+1976,Nova Scotia,53600
+1976,Ontario,67400
+1976,"Ottawa-Gatineau, Ontario/Quebec",80600
+1976,Prairie provinces,63800
+1976,Prince Edward Island,53600
+1976,Quebec,60500
+1976,"Québec, Quebec",71100
+1976,Saskatchewan,60100
+1976,"Toronto, Ontario",73600
+1976,"Vancouver, British Columbia",74600
+1976,"Winnipeg, Manitoba",62200
+1977,Alberta,71000
+1977,Atlantic provinces,54100
+1977,British Columbia,69800
+1977,"Calgary, Alberta",73900
+1977,Canada,64600
+1977,"Edmonton, Alberta",76100
+1977,Manitoba,59500
+1977,"Montréal, Quebec",64700
+1977,New Brunswick,54400
+1977,Newfoundland and Labrador,52900
+1977,Nova Scotia,54800
+1977,Ontario,68600
+1977,"Ottawa-Gatineau, Ontario/Quebec",83000
+1977,Prairie provinces,64700
+1977,Prince Edward Island,53400
+1977,Quebec,60900
+1977,"Québec, Quebec",65600
+1977,Saskatchewan,58900
+1977,"Toronto, Ontario",73800
+1977,"Vancouver, British Columbia",72300
+1977,"Winnipeg, Manitoba",65900
+1978,Alberta,70200
+1978,Atlantic provinces,55300
+1978,British Columbia,69600
+1978,"Calgary, Alberta",71900
+1978,Canada,65300
+1978,"Edmonton, Alberta",76800
+1978,Manitoba,59800
+1978,"Montréal, Quebec",65200
+1978,New Brunswick,57200
+1978,Newfoundland and Labrador,53200
+1978,Nova Scotia,55400
+1978,Ontario,68900
+1978,"Ottawa-Gatineau, Ontario/Quebec",76000
+1978,Prairie provinces,65800
+1978,Prince Edward Island,53900
+1978,Quebec,61900
+1978,"Québec, Quebec",66400
+1978,Saskatchewan,60100
+1978,"Toronto, Ontario",75700
+1978,"Vancouver, British Columbia",77100
+1978,"Winnipeg, Manitoba",61200
+1979,Alberta,70300
+1979,Atlantic provinces,54900
+1979,British Columbia,71200
+1979,"Calgary, Alberta",73500
+1979,Canada,65000
+1979,"Edmonton, Alberta",74200
+1979,Manitoba,61400
+1979,"Montréal, Quebec",62800
+1979,New Brunswick,55000
+1979,Newfoundland and Labrador,53700
+1979,Nova Scotia,55500
+1979,Ontario,68900
+1979,"Ottawa-Gatineau, Ontario/Quebec",72500
+1979,Prairie provinces,66000
+1979,Prince Edward Island,53700
+1979,Quebec,60100
+1979,"Québec, Quebec",66000
+1979,Saskatchewan,60600
+1979,"Toronto, Ontario",75200
+1979,"Vancouver, British Columbia",73900
+1979,"Winnipeg, Manitoba",66600
+1980,Alberta,74800
+1980,Atlantic provinces,52900
+1980,British Columbia,74200
+1980,"Calgary, Alberta",77300
+1980,Canada,66300
+1980,"Edmonton, Alberta",77800
+1980,Manitoba,64400
+1980,"Montréal, Quebec",64000
+1980,New Brunswick,52700
+1980,Newfoundland and Labrador,50200
+1980,Nova Scotia,54000
+1980,Ontario,69900
+1980,"Ottawa-Gatineau, Ontario/Quebec",73600
+1980,Prairie provinces,68800
+1980,Prince Edward Island,57700
+1980,Quebec,61500
+1980,"Québec, Quebec",70700
+1980,Saskatchewan,62600
+1980,"Toronto, Ontario",77400
+1980,"Vancouver, British Columbia",80000
+1980,"Winnipeg, Manitoba",69900
+1981,Alberta,74000
+1981,Atlantic provinces,54000
+1981,British Columbia,72100
+1981,"Calgary, Alberta",79500
+1981,Canada,65100
+1981,"Edmonton, Alberta",79000
+1981,Manitoba,61100
+1981,"Montréal, Quebec",64300
+1981,New Brunswick,52800
+1981,Newfoundland and Labrador,55900
+1981,Nova Scotia,54300
+1981,Ontario,69100
+1981,"Ottawa-Gatineau, Ontario/Quebec",73500
+1981,Prairie provinces,67600
+1981,Prince Edward Island,51700
+1981,Quebec,59600
+1981,"Québec, Quebec",67300
+1981,Saskatchewan,61800
+1981,"Toronto, Ontario",75100
+1981,"Vancouver, British Columbia",78200
+1981,"Winnipeg, Manitoba",63200
+1982,Alberta,74700
+1982,Atlantic provinces,52000
+1982,British Columbia,67000
+1982,"Calgary, Alberta",81800
+1982,Canada,62800
+1982,"Edmonton, Alberta",75200
+1982,Manitoba,59400
+1982,"Montréal, Quebec",62200
+1982,New Brunswick,51000
+1982,Newfoundland and Labrador,52800
+1982,Nova Scotia,52400
+1982,Ontario,65900
+1982,"Ottawa-Gatineau, Ontario/Quebec",75400
+1982,Prairie provinces,67400
+1982,Prince Edward Island,50000
+1982,Quebec,58300
+1982,"Québec, Quebec",57900
+1982,Saskatchewan,60500
+1982,"Toronto, Ontario",71800
+1982,"Vancouver, British Columbia",71500
+1982,"Winnipeg, Manitoba",63800
+1983,Alberta,67300
+1983,Atlantic provinces,50100
+1983,British Columbia,65200
+1983,"Calgary, Alberta",78900
+1983,Canada,61100
+1983,"Edmonton, Alberta",66300
+1983,Manitoba,61900
+1983,"Montréal, Quebec",59800
+1983,New Brunswick,49900
+1983,Newfoundland and Labrador,46200
+1983,Nova Scotia,51200
+1983,Ontario,64800
+1983,"Ottawa-Gatineau, Ontario/Quebec",69700
+1983,Prairie provinces,64500
+1983,Prince Edward Island,52800
+1983,Quebec,56800
+1983,"Québec, Quebec",57700
+1983,Saskatchewan,60100
+1983,"Toronto, Ontario",69900
+1983,"Vancouver, British Columbia",73200
+1983,"Winnipeg, Manitoba",66700
+1984,Alberta,65500
+1984,Atlantic provinces,52900
+1984,British Columbia,63200
+1984,"Calgary, Alberta",69500
+1984,Canada,61900
+1984,"Edmonton, Alberta",64700
+1984,Manitoba,61200
+1984,"Montréal, Quebec",63100
+1984,New Brunswick,53800
+1984,Newfoundland and Labrador,48700
+1984,Nova Scotia,54700
+1984,Ontario,65900
+1984,"Ottawa-Gatineau, Ontario/Quebec",72200
+1984,Prairie provinces,63000
+1984,Prince Edward Island,54000
+1984,Quebec,58100
+1984,"Québec, Quebec",60000
+1984,Saskatchewan,57600
+1984,"Toronto, Ontario",69200
+1984,"Vancouver, British Columbia",70200
+1984,"Winnipeg, Manitoba",65900
+1985,Alberta,67700
+1985,Atlantic provinces,52900
+1985,British Columbia,63700
+1985,"Calgary, Alberta",74100
+1985,Canada,62700
+1985,"Edmonton, Alberta",67900
+1985,Manitoba,59500
+1985,"Montréal, Quebec",62600
+1985,New Brunswick,53000
+1985,Newfoundland and Labrador,48200
+1985,Nova Scotia,55600
+1985,Ontario,68200
+1985,"Ottawa-Gatineau, Ontario/Quebec",73300
+1985,Prairie provinces,63300
+1985,Prince Edward Island,52900
+1985,Quebec,58100
+1985,"Québec, Quebec",58700
+1985,Saskatchewan,59200
+1985,"Toronto, Ontario",72900
+1985,"Vancouver, British Columbia",70700
+1985,"Winnipeg, Manitoba",61800
+1986,Alberta,67100
+1986,Atlantic provinces,52200
+1986,British Columbia,63400
+1986,"Calgary, Alberta",74300
+1986,Canada,63000
+1986,"Edmonton, Alberta",69500
+1986,Manitoba,59000
+1986,"Montréal, Quebec",61500
+1986,New Brunswick,53500
+1986,Newfoundland and Labrador,47800
+1986,Nova Scotia,53900
+1986,Ontario,69600
+1986,"Ottawa-Gatineau, Ontario/Quebec",81700
+1986,Prairie provinces,62500
+1986,Prince Edward Island,52100
+1986,Quebec,57100
+1986,"Québec, Quebec",61600
+1986,Saskatchewan,55800
+1986,"Toronto, Ontario",74000
+1986,"Vancouver, British Columbia",67700
+1986,"Winnipeg, Manitoba",62700
+1987,Alberta,64500
+1987,Atlantic provinces,54200
+1987,British Columbia,62200
+1987,"Calgary, Alberta",68700
+1987,Canada,62800
+1987,"Edmonton, Alberta",67400
+1987,Manitoba,59000
+1987,"Montréal, Quebec",60300
+1987,New Brunswick,53000
+1987,Newfoundland and Labrador,50700
+1987,Nova Scotia,57200
+1987,Ontario,70000
+1987,"Ottawa-Gatineau, Ontario/Quebec",71700
+1987,Prairie provinces,61400
+1987,Prince Edward Island,54600
+1987,Quebec,56800
+1987,"Québec, Quebec",60000
+1987,Saskatchewan,57500
+1987,"Toronto, Ontario",76900
+1987,"Vancouver, British Columbia",68300
+1987,"Winnipeg, Manitoba",62500
+1988,Alberta,66300
+1988,Atlantic provinces,55000
+1988,British Columbia,66300
+1988,"Calgary, Alberta",71400
+1988,Canada,64600
+1988,"Edmonton, Alberta",68600
+1988,Manitoba,58500
+1988,"Montréal, Quebec",59300
+1988,New Brunswick,53600
+1988,Newfoundland and Labrador,53400
+1988,Nova Scotia,57800
+1988,Ontario,73200
+1988,"Ottawa-Gatineau, Ontario/Quebec",80800
+1988,Prairie provinces,62500
+1988,Prince Edward Island,52300
+1988,Quebec,57500
+1988,"Québec, Quebec",58100
+1988,Saskatchewan,56200
+1988,"Toronto, Ontario",79900
+1988,"Vancouver, British Columbia",70800
+1988,"Winnipeg, Manitoba",62100
+1989,Alberta,66600
+1989,Atlantic provinces,55600
+1989,British Columbia,67000
+1989,"Calgary, Alberta",69300
+1989,Canada,65600
+1989,"Edmonton, Alberta",70100
+1989,Manitoba,61900
+1989,"Montréal, Quebec",63300
+1989,New Brunswick,55400
+1989,Newfoundland and Labrador,54800
+1989,Nova Scotia,56400
+1989,Ontario,73300
+1989,"Ottawa-Gatineau, Ontario/Quebec",78300
+1989,Prairie provinces,63800
+1989,Prince Edward Island,55700
+1989,Quebec,59400
+1989,"Québec, Quebec",60800
+1989,Saskatchewan,56900
+1989,"Toronto, Ontario",82500
+1989,"Vancouver, British Columbia",71100
+1989,"Winnipeg, Manitoba",65800
+1990,Alberta,66000
+1990,Atlantic provinces,54400
+1990,British Columbia,65300
+1990,"Calgary, Alberta",69300
+1990,Canada,63100
+1990,"Edmonton, Alberta",68300
+1990,Manitoba,59700
+1990,"Montréal, Quebec",59800
+1990,New Brunswick,54200
+1990,Newfoundland and Labrador,51300
+1990,Nova Scotia,56400
+1990,Ontario,70400
+1990,"Ottawa-Gatineau, Ontario/Quebec",78300
+1990,Prairie provinces,61800
+1990,Prince Edward Island,52900
+1990,Quebec,56700
+1990,"Québec, Quebec",55900
+1990,Saskatchewan,54500
+1990,"Toronto, Ontario",75400
+1990,"Vancouver, British Columbia",71200
+1990,"Winnipeg, Manitoba",63500
+1991,Alberta,63800
+1991,Atlantic provinces,51900
+1991,British Columbia,64200
+1991,"Calgary, Alberta",65800
+1991,Canada,60700
+1991,"Edmonton, Alberta",67600
+1991,Manitoba,55800
+1991,"Montréal, Quebec",55300
+1991,New Brunswick,51400
+1991,Newfoundland and Labrador,50000
+1991,Nova Scotia,53700
+1991,Ontario,67100
+1991,"Ottawa-Gatineau, Ontario/Quebec",70600
+1991,Prairie provinces,59600
+1991,Prince Edward Island,53200
+1991,Quebec,54600
+1991,"Québec, Quebec",62300
+1991,Saskatchewan,54000
+1991,"Toronto, Ontario",73900
+1991,"Vancouver, British Columbia",72900
+1991,"Winnipeg, Manitoba",60200
+1992,Alberta,61900
+1992,Atlantic provinces,52800
+1992,British Columbia,64700
+1992,"Calgary, Alberta",63700
+1992,Canada,61100
+1992,"Edmonton, Alberta",68300
+1992,Manitoba,57200
+1992,"Montréal, Quebec",59200
+1992,New Brunswick,52700
+1992,Newfoundland and Labrador,48600
+1992,Nova Scotia,55100
+1992,Ontario,67200
+1992,"Ottawa-Gatineau, Ontario/Quebec",70500
+1992,Prairie provinces,58800
+1992,Prince Edward Island,53900
+1992,Quebec,56100
+1992,"Québec, Quebec",56200
+1992,Saskatchewan,55300
+1992,"Toronto, Ontario",73300
+1992,"Vancouver, British Columbia",68500
+1992,"Winnipeg, Manitoba",62500
+1993,Alberta,64100
+1993,Atlantic provinces,52300
+1993,British Columbia,62900
+1993,"Calgary, Alberta",63900
+1993,Canada,59200
+1993,"Edmonton, Alberta",69800
+1993,Manitoba,56100
+1993,"Montréal, Quebec",52700
+1993,New Brunswick,52500
+1993,Newfoundland and Labrador,49600
+1993,Nova Scotia,53600
+1993,Ontario,65300
+1993,"Ottawa-Gatineau, Ontario/Quebec",73000
+1993,Prairie provinces,59600
+1993,Prince Edward Island,52700
+1993,Quebec,52500
+1993,"Québec, Quebec",56500
+1993,Saskatchewan,52400
+1993,"Toronto, Ontario",68000
+1993,"Vancouver, British Columbia",65800
+1993,"Winnipeg, Manitoba",61200
+1994,Alberta,63300
+1994,Atlantic provinces,51500
+1994,British Columbia,64200
+1994,"Calgary, Alberta",67000
+1994,Canada,60300
+1994,"Edmonton, Alberta",63800
+1994,Manitoba,58000
+1994,"Montréal, Quebec",57200
+1994,New Brunswick,51500
+1994,Newfoundland and Labrador,49700
+1994,Nova Scotia,52600
+1994,Ontario,65800
+1994,"Ottawa-Gatineau, Ontario/Quebec",70400
+1994,Prairie provinces,60000
+1994,Prince Edward Island,54600
+1994,Quebec,54700
+1994,"Québec, Quebec",56400
+1994,Saskatchewan,53400
+1994,"Toronto, Ontario",69700
+1994,"Vancouver, British Columbia",67900
+1994,"Winnipeg, Manitoba",62400
+1995,Alberta,62100
+1995,Atlantic provinces,50900
+1995,British Columbia,63200
+1995,"Calgary, Alberta",67100
+1995,Canada,59700
+1995,"Edmonton, Alberta",63100
+1995,Manitoba,57100
+1995,"Montréal, Quebec",55200
+1995,New Brunswick,50800
+1995,Newfoundland and Labrador,48400
+1995,Nova Scotia,52500
+1995,Ontario,65500
+1995,"Ottawa-Gatineau, Ontario/Quebec",69500
+1995,Prairie provinces,59100
+1995,Prince Edward Island,53900
+1995,Quebec,54100
+1995,"Québec, Quebec",61000
+1995,Saskatchewan,54200
+1995,"Toronto, Ontario",68600
+1995,"Vancouver, British Columbia",66000
+1995,"Winnipeg, Manitoba",61900
+1996,Alberta,62800
+1996,Atlantic provinces,50600
+1996,British Columbia,63600
+1996,"Calgary, Alberta",66100
+1996,Canada,59600
+1996,"Edmonton, Alberta",66300
+1996,Manitoba,57400
+1996,"Montréal, Quebec",55500
+1996,New Brunswick,51600
+1996,Newfoundland and Labrador,47800
+1996,Nova Scotia,51200
+1996,Ontario,66200
+1996,"Ottawa-Gatineau, Ontario/Quebec",67300
+1996,Prairie provinces,59500
+1996,Prince Edward Island,53100
+1996,Quebec,53900
+1996,"Québec, Quebec",57400
+1996,Saskatchewan,54400
+1996,"Toronto, Ontario",70800
+1996,"Vancouver, British Columbia",65900
+1996,"Winnipeg, Manitoba",60800
+1997,Alberta,65300
+1997,Atlantic provinces,50300
+1997,British Columbia,63500
+1997,"Calgary, Alberta",67900
+1997,Canada,59900
+1997,"Edmonton, Alberta",67300
+1997,Manitoba,57400
+1997,"Montréal, Quebec",54600
+1997,New Brunswick,51300
+1997,Newfoundland and Labrador,47300
+1997,Nova Scotia,50700
+1997,Ontario,66600
+1997,"Ottawa-Gatineau, Ontario/Quebec",69100
+1997,Prairie provinces,60800
+1997,Prince Edward Island,52600
+1997,Quebec,52800
+1997,"Québec, Quebec",60900
+1997,Saskatchewan,54500
+1997,"Toronto, Ontario",70800
+1997,"Vancouver, British Columbia",67900
+1997,"Winnipeg, Manitoba",60900
+1998,Alberta,67300
+1998,Atlantic provinces,52800
+1998,British Columbia,64800
+1998,"Calgary, Alberta",73900
+1998,Canada,62200
+1998,"Edmonton, Alberta",70800
+1998,Manitoba,58500
+1998,"Montréal, Quebec",57600
+1998,New Brunswick,53600
+1998,Newfoundland and Labrador,49800
+1998,Nova Scotia,54600
+1998,Ontario,69900
+1998,"Ottawa-Gatineau, Ontario/Quebec",67600
+1998,Prairie provinces,62500
+1998,Prince Edward Island,53600
+1998,Quebec,54400
+1998,"Québec, Quebec",61200
+1998,Saskatchewan,55600
+1998,"Toronto, Ontario",75900
+1998,"Vancouver, British Columbia",70500
+1998,"Winnipeg, Manitoba",64000
+1999,Alberta,67100
+1999,Atlantic provinces,54700
+1999,British Columbia,64700
+1999,"Calgary, Alberta",71800
+1999,Canada,64300
+1999,"Edmonton, Alberta",69000
+1999,Manitoba,60200
+1999,"Montréal, Quebec",58000
+1999,New Brunswick,55800
+1999,Newfoundland and Labrador,50000
+1999,Nova Scotia,56900
+1999,Ontario,72600
+1999,"Ottawa-Gatineau, Ontario/Quebec",71000
+1999,Prairie provinces,63900
+1999,Prince Edward Island,53000
+1999,Quebec,56900
+1999,"Québec, Quebec",63500
+1999,Saskatchewan,58100
+1999,"Toronto, Ontario",80900
+1999,"Vancouver, British Columbia",72000
+1999,"Winnipeg, Manitoba",65800
+2000,Alberta,69600
+2000,Atlantic provinces,55300
+2000,British Columbia,64200
+2000,"Calgary, Alberta",73800
+2000,Canada,65300
+2000,"Edmonton, Alberta",72000
+2000,Manitoba,61200
+2000,"Montréal, Quebec",60000
+2000,New Brunswick,55800
+2000,Newfoundland and Labrador,50200
+2000,Nova Scotia,57900
+2000,Ontario,74100
+2000,"Ottawa-Gatineau, Ontario/Quebec",74700
+2000,Prairie provinces,65800
+2000,Prince Edward Island,54600
+2000,Quebec,57900
+2000,"Québec, Quebec",64600
+2000,Saskatchewan,58800
+2000,"Toronto, Ontario",81100
+2000,"Vancouver, British Columbia",71100
+2000,"Winnipeg, Manitoba",66200
+2001,Alberta,76300
+2001,Atlantic provinces,56600
+2001,British Columbia,66900
+2001,"Calgary, Alberta",81400
+2001,Canada,68000
+2001,"Edmonton, Alberta",77400
+2001,Manitoba,62700
+2001,"Montréal, Quebec",61700
+2001,New Brunswick,57600
+2001,Newfoundland and Labrador,50900
+2001,Nova Scotia,58700
+2001,Ontario,75500
+2001,"Ottawa-Gatineau, Ontario/Quebec",79100
+2001,Prairie provinces,70900
+2001,Prince Edward Island,56200
+2001,Quebec,59500
+2001,"Québec, Quebec",66100
+2001,Saskatchewan,62000
+2001,"Toronto, Ontario",83300
+2001,"Vancouver, British Columbia",75800
+2001,"Winnipeg, Manitoba",66900
+2002,Alberta,75400
+2002,Atlantic provinces,57200
+2002,British Columbia,66500
+2002,"Calgary, Alberta",81700
+2002,Canada,67800
+2002,"Edmonton, Alberta",75500
+2002,Manitoba,64100
+2002,"Montréal, Quebec",61700
+2002,New Brunswick,57900
+2002,Newfoundland and Labrador,51600
+2002,Nova Scotia,59700
+2002,Ontario,76600
+2002,"Ottawa-Gatineau, Ontario/Quebec",84700
+2002,Prairie provinces,70200
+2002,Prince Edward Island,56700
+2002,Quebec,59900
+2002,"Québec, Quebec",66500
+2002,Saskatchewan,61900
+2002,"Toronto, Ontario",82900
+2002,"Vancouver, British Columbia",72900
+2002,"Winnipeg, Manitoba",68900
+2003,Alberta,75500
+2003,Atlantic provinces,56700
+2003,British Columbia,66700
+2003,"Calgary, Alberta",76600
+2003,Canada,67800
+2003,"Edmonton, Alberta",80900
+2003,Manitoba,63200
+2003,"Montréal, Quebec",63000
+2003,New Brunswick,56800
+2003,Newfoundland and Labrador,53200
+2003,Nova Scotia,58500
+2003,Ontario,75600
+2003,"Ottawa-Gatineau, Ontario/Quebec",82400
+2003,Prairie provinces,70300
+2003,Prince Edward Island,56800
+2003,Quebec,59900
+2003,"Québec, Quebec",68100
+2003,Saskatchewan,62400
+2003,"Toronto, Ontario",79600
+2003,"Vancouver, British Columbia",72000
+2003,"Winnipeg, Manitoba",67700
+2004,Alberta,78800
+2004,Atlantic provinces,57700
+2004,British Columbia,68800
+2004,"Calgary, Alberta",81800
+2004,Canada,68700
+2004,"Edmonton, Alberta",81300
+2004,Manitoba,64000
+2004,"Montréal, Quebec",62500
+2004,New Brunswick,58800
+2004,Newfoundland and Labrador,53000
+2004,Nova Scotia,59600
+2004,Ontario,75400
+2004,"Ottawa-Gatineau, Ontario/Quebec",85000
+2004,Prairie provinces,71700
+2004,Prince Edward Island,58900
+2004,Quebec,60700
+2004,"Québec, Quebec",68100
+2004,Saskatchewan,62800
+2004,"Toronto, Ontario",79300
+2004,"Vancouver, British Columbia",70100
+2004,"Winnipeg, Manitoba",69700
+2005,Alberta,80600
+2005,Atlantic provinces,58300
+2005,British Columbia,71200
+2005,"Calgary, Alberta",86800
+2005,Canada,69800
+2005,"Edmonton, Alberta",83000
+2005,Manitoba,65700
+2005,"Montréal, Quebec",65800
+2005,New Brunswick,56600
+2005,Newfoundland and Labrador,53700
+2005,Nova Scotia,61500
+2005,Ontario,76100
+2005,"Ottawa-Gatineau, Ontario/Quebec",86200
+2005,Prairie provinces,74300
+2005,Prince Edward Island,59400
+2005,Quebec,62800
+2005,"Québec, Quebec",66700
+2005,Saskatchewan,64300
+2005,"Toronto, Ontario",77800
+2005,"Vancouver, British Columbia",75000
+2005,"Winnipeg, Manitoba",70100
+2006,Alberta,87700
+2006,Atlantic provinces,61000
+2006,British Columbia,75000
+2006,"Calgary, Alberta",94100
+2006,Canada,71900
+2006,"Edmonton, Alberta",89700
+2006,Manitoba,66400
+2006,"Montréal, Quebec",66300
+2006,New Brunswick,59400
+2006,Newfoundland and Labrador,57200
+2006,Nova Scotia,63700
+2006,Ontario,76900
+2006,"Ottawa-Gatineau, Ontario/Quebec",87500
+2006,Prairie provinces,79400
+2006,Prince Edward Island,62600
+2006,Quebec,63700
+2006,"Québec, Quebec",67900
+2006,Saskatchewan,68600
+2006,"Toronto, Ontario",78000
+2006,"Vancouver, British Columbia",78700
+2006,"Winnipeg, Manitoba",72000
+2007,Alberta,90700
+2007,Atlantic provinces,63300
+2007,British Columbia,76900
+2007,"Calgary, Alberta",94900
+2007,Canada,74500
+2007,"Edmonton, Alberta",95700
+2007,Manitoba,70800
+2007,"Montréal, Quebec",68700
+2007,New Brunswick,61500
+2007,Newfoundland and Labrador,61400
+2007,Nova Scotia,65200
+2007,Ontario,78900
+2007,"Ottawa-Gatineau, Ontario/Quebec",89400
+2007,Prairie provinces,83300
+2007,Prince Edward Island,64500
+2007,Quebec,66000
+2007,"Québec, Quebec",72600
+2007,Saskatchewan,71900
+2007,"Toronto, Ontario",79400
+2007,"Vancouver, British Columbia",81000
+2007,"Winnipeg, Manitoba",76200
+2008,Alberta,91800
+2008,Atlantic provinces,63100
+2008,British Columbia,81400
+2008,"Calgary, Alberta",97200
+2008,Canada,75600
+2008,"Edmonton, Alberta",91000
+2008,Manitoba,72400
+2008,"Montréal, Quebec",69400
+2008,New Brunswick,63100
+2008,Newfoundland and Labrador,62700
+2008,Nova Scotia,62800
+2008,Ontario,79100
+2008,"Ottawa-Gatineau, Ontario/Quebec",89000
+2008,Prairie provinces,84900
+2008,Prince Edward Island,65600
+2008,Quebec,66700
+2008,"Québec, Quebec",79700
+2008,Saskatchewan,76700
+2008,"Toronto, Ontario",82900
+2008,"Vancouver, British Columbia",83500
+2008,"Winnipeg, Manitoba",78500
+2009,Alberta,94300
+2009,Atlantic provinces,65300
+2009,British Columbia,79400
+2009,"Calgary, Alberta",99000
+2009,Canada,75800
+2009,"Edmonton, Alberta",94900
+2009,Manitoba,73800
+2009,"Montréal, Quebec",70400
+2009,New Brunswick,65700
+2009,Newfoundland and Labrador,64200
+2009,Nova Scotia,64700
+2009,Ontario,77700
+2009,"Ottawa-Gatineau, Ontario/Quebec",89700
+2009,Prairie provinces,86600
+2009,Prince Edward Island,66500
+2009,Quebec,68200
+2009,"Québec, Quebec",79900
+2009,Saskatchewan,82500
+2009,"Toronto, Ontario",80200
+2009,"Vancouver, British Columbia",81600
+2009,"Winnipeg, Manitoba",81100
+2010,Alberta,91600
+2010,Atlantic provinces,65800
+2010,British Columbia,78600
+2010,"Calgary, Alberta",95600
+2010,Canada,75900
+2010,"Edmonton, Alberta",93900
+2010,Manitoba,76000
+2010,"Montréal, Quebec",66900
+2010,New Brunswick,68100
+2010,Newfoundland and Labrador,65300
+2010,Nova Scotia,65200
+2010,Ontario,79700
+2010,"Ottawa-Gatineau, Ontario/Quebec",90100
+2010,Prairie provinces,85900
+2010,Prince Edward Island,65100
+2010,Quebec,66900
+2010,"Québec, Quebec",81200
+2010,Saskatchewan,80700
+2010,"Toronto, Ontario",87200
+2010,"Vancouver, British Columbia",80200
+2010,"Winnipeg, Manitoba",80600
+2011,Alberta,94200
+2011,Atlantic provinces,68000
+2011,British Columbia,79300
+2011,"Calgary, Alberta",102800
+2011,Canada,76600
+2011,"Edmonton, Alberta",94500
+2011,Manitoba,73400
+2011,"Montréal, Quebec",67200
+2011,New Brunswick,67700
+2011,Newfoundland and Labrador,68500
+2011,Nova Scotia,68600
+2011,Ontario,79300
+2011,"Ottawa-Gatineau, Ontario/Quebec",94100
+2011,Prairie provinces,87300
+2011,Prince Edward Island,66700
+2011,Quebec,67500
+2011,"Québec, Quebec",80200
+2011,Saskatchewan,84200
+2011,"Toronto, Ontario",83500
+2011,"Vancouver, British Columbia",81800
+2011,"Winnipeg, Manitoba",79600
+2012,Alberta,99900
+2012,Atlantic provinces,67800
+2012,British Columbia,79700
+2012,"Calgary, Alberta",111600
+2012,Canada,78600
+2012,"Edmonton, Alberta",100800
+2012,Manitoba,75300
+2012,"Montréal, Quebec",72200
+2012,New Brunswick,65300
+2012,Newfoundland and Labrador,71200
+2012,Nova Scotia,68500
+2012,Ontario,80900
+2012,"Ottawa-Gatineau, Ontario/Quebec",98700
+2012,Prairie provinces,92200
+2012,Prince Edward Island,66100
+2012,Quebec,70100
+2012,"Québec, Quebec",72500
+2012,Saskatchewan,85500
+2012,"Toronto, Ontario",85400
+2012,"Vancouver, British Columbia",81900
+2012,"Winnipeg, Manitoba",77600
+2013,Alberta,99400
+2013,Atlantic provinces,69400
+2013,British Columbia,80700
+2013,"Calgary, Alberta",112100
+2013,Canada,78800
+2013,"Edmonton, Alberta",105500
+2013,Manitoba,76100
+2013,"Montréal, Quebec",74400
+2013,New Brunswick,66300
+2013,Newfoundland and Labrador,74100
+2013,Nova Scotia,69900
+2013,Ontario,80100
+2013,"Ottawa-Gatineau, Ontario/Quebec",98500
+2013,Prairie provinces,92600
+2013,Prince Edward Island,70400
+2013,Quebec,70700
+2013,"Québec, Quebec",82900
+2013,Saskatchewan,85000
+2013,"Toronto, Ontario",80600
+2013,"Vancouver, British Columbia",85600
+2013,"Winnipeg, Manitoba",77800
+2014,Alberta,99300
+2014,Atlantic provinces,70700
+2014,British Columbia,82200
+2014,"Calgary, Alberta",113000
+2014,Canada,80600
+2014,"Edmonton, Alberta",97500
+2014,Manitoba,76400
+2014,"Montréal, Quebec",77000
+2014,New Brunswick,68400
+2014,Newfoundland and Labrador,76800
+2014,Nova Scotia,70000
+2014,Ontario,83300
+2014,"Ottawa-Gatineau, Ontario/Quebec",97500
+2014,Prairie provinces,92900
+2014,Prince Edward Island,69900
+2014,Quebec,71400
+2014,"Québec, Quebec",74600
+2014,Saskatchewan,89500
+2014,"Toronto, Ontario",85700
+2014,"Vancouver, British Columbia",88400
+2014,"Winnipeg, Manitoba",78900
+2015,Alberta,100700
+2015,Atlantic provinces,72200
+2015,British Columbia,83800
+2015,"Calgary, Alberta",103100
+2015,Canada,81000
+2015,"Edmonton, Alberta",104500
+2015,Manitoba,77400
+2015,"Montréal, Quebec",73400
+2015,New Brunswick,69500
+2015,Newfoundland and Labrador,79900
+2015,Nova Scotia,72000
+2015,Ontario,84000
+2015,"Ottawa-Gatineau, Ontario/Quebec",95600
+2015,Prairie provinces,93500
+2015,Prince Edward Island,70900
+2015,Quebec,72100
+2015,"Québec, Quebec",75800
+2015,Saskatchewan,88300
+2015,"Toronto, Ontario",86600
+2015,"Vancouver, British Columbia",94000
+2015,"Winnipeg, Manitoba",80700
+2016,Alberta,96400
+2016,Atlantic provinces,71200
+2016,British Columbia,85300
+2016,"Calgary, Alberta",93200
+2016,Canada,81500
+2016,"Edmonton, Alberta",108200
+2016,Manitoba,77500
+2016,"Montréal, Quebec",77000
+2016,New Brunswick,67900
+2016,Newfoundland and Labrador,74900
+2016,Nova Scotia,71600
+2016,Ontario,84000
+2016,"Ottawa-Gatineau, Ontario/Quebec",95100
+2016,Prairie provinces,91000
+2016,Prince Edward Island,73000
+2016,Quebec,73100
+2016,"Québec, Quebec",80100
+2016,Saskatchewan,85600
+2016,"Toronto, Ontario",85900
+2016,"Vancouver, British Columbia",89100
+2016,"Winnipeg, Manitoba",80300
+2017,Alberta,100100
+2017,Atlantic provinces,71500
+2017,British Columbia,86400
+2017,"Calgary, Alberta",102200
+2017,Canada,83000
+2017,"Edmonton, Alberta",106100
+2017,Manitoba,80800
+2017,"Montréal, Quebec",76200
+2017,New Brunswick,70400
+2017,Newfoundland and Labrador,72400
+2017,Nova Scotia,71600
+2017,Ontario,85800
+2017,"Ottawa-Gatineau, Ontario/Quebec",96300
+2017,Prairie provinces,93000
+2017,Prince Edward Island,73400
+2017,Quebec,74600
+2017,"Québec, Quebec",82600
+2017,Saskatchewan,88200
+2017,"Toronto, Ontario",90700
+2017,"Vancouver, British Columbia",89900
+2017,"Winnipeg, Manitoba",82700
+2018,Alberta,98400
+2018,Atlantic provinces,71800
+2018,British Columbia,90400
+2018,"Calgary, Alberta",102000
+2018,Canada,84900
+2018,"Edmonton, Alberta",105900
+2018,Manitoba,79300
+2018,"Montréal, Quebec",79600
+2018,New Brunswick,71100
+2018,Newfoundland and Labrador,71900
+2018,Nova Scotia,71900
+2018,Ontario,89200
+2018,"Ottawa-Gatineau, Ontario/Quebec",98600
+2018,Prairie provinces,92000
+2018,Prince Edward Island,73000
+2018,Quebec,75800
+2018,"Québec, Quebec",83200
+2018,Saskatchewan,85800
+2018,"Toronto, Ontario",92300
+2018,"Vancouver, British Columbia",93900
+2018,"Winnipeg, Manitoba",81500

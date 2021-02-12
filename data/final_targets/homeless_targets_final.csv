@@ -1,0 +1,189 @@
+Year,Province,Community,PIT Total,PIT-Sheltered,PIT-Unsheltered
+2002,British Columbia,Burnaby,18,14,44
+2002,British Columbia,Delta/White Rock,11,0,0
+2002,British Columbia,Langley,18,0,0
+2002,British Columbia,Maple Ridge/Pitt Meadows,66,0,0
+2002,British Columbia,New Westminster,74,0,0
+2002,British Columbia,North Shore,47,0,0
+2002,British Columbia,Richmond,31,0,0
+2002,British Columbia,Surrey,171,0,0
+2002,British Columbia,Tri-Cities,14,0,0
+2002,British Columbia,Vancouver,670,0,0
+2003,Ontario,Greater Sudbury,608,371,237
+2004,British Columbia,Abbotsford,226,0,0
+2004,British Columbia,Chilliwack,87,0,0
+2004,British Columbia,Mission,75,0,0
+2004,Nova Scotia,Halifax,265,183,82
+2005,British Columbia,Burnaby,42,0,0
+2005,British Columbia,Delta/White Rock,12,0,0
+2005,British Columbia,Langley,57,0,0
+2005,British Columbia,Maple Ridge/Pitt Meadows,44,0,0
+2005,British Columbia,New Westminster,97,0,0
+2005,British Columbia,North Shore,90,0,0
+2005,British Columbia,Richmond,35,0,0
+2005,British Columbia,Surrey,392,0,0
+2005,British Columbia,Tri-Cities,40,0,0
+2005,British Columbia,Vancouver,1364,0,0
+2006,Alberta,Calgary,3426,2997,429
+2006,Alberta,Edmonton,2618,844,1774
+2006,Ontario,Toronto,5052,4234,818
+2008,Alberta,Calgary,4060,3491,569
+2008,British Columbia,Abbotsford,235,0,0
+2008,British Columbia,Burnaby,86,9,77
+2008,British Columbia,Chilliwack,98,0,0
+2008,British Columbia,Delta/White Rock,17,6,11
+2008,British Columbia,Langley,86,12,74
+2008,British Columbia,Maple Ridge/Pitt Meadows,90,50,40
+2008,British Columbia,Mission,100,0,0
+2008,British Columbia,New Westminster,124,52,72
+2008,British Columbia,North Shore,127,0,0
+2008,British Columbia,Richmond,56,19,37
+2008,British Columbia,Surrey,402,95,307
+2008,British Columbia,Tri-Cities,94,18,76
+2008,British Columbia,Vancouver,1576,765,811
+2008,Saskatchewan,Saskatoon,260,199,44
+2009,Ontario,Toronto,5086,4686,400
+2010,Alberta,Fort McMurray - Wood Buffalo,319,131,188
+2010,British Columbia,Vancouver,1715,1294,421
+2011,British Columbia,Abbotsford,117,0,0
+2011,British Columbia,Burnaby,78,8,70
+2011,British Columbia,Chilliwack,111,0,0
+2011,British Columbia,Delta/White Rock,14,1,13
+2011,British Columbia,Langley,103,43,60
+2011,British Columbia,Maple Ridge/Pitt Meadows,110,47,63
+2011,British Columbia,Mission,54,0,0
+2011,British Columbia,New Westminster,132,91,41
+2011,British Columbia,North Shore,122,67,55
+2011,British Columbia,Richmond,49,15,34
+2011,British Columbia,Surrey,400,170,230
+2011,British Columbia,Tri-Cities,48,20,28
+2011,British Columbia,Vancouver,1581,1427,154
+2012,Alberta,Calgary,3576,3243,333
+2012,Alberta,Edmonton,2174,1104,1070
+2012,Alberta,Fort McMurray - Wood Buffalo,326,138,188
+2012,Alberta,Grand Prairie,0,0,0
+2012,Alberta,Lethbridge,99,94,5
+2012,Alberta,Medicine Hat,0,0,0
+2012,Alberta,Red Deer,279,98,184
+2012,British Columbia,Vancouver,1602,1296,306
+2012,New Brunswick,Fredericton,0,0,0
+2012,New Brunswick,Moncton,0,0,0
+2012,New Brunswick,Saint John,0,0,0
+2013,British Columbia,Vancouver,1600,1327,273
+2013,Ontario,Toronto,5253,4806,447
+2014,Alberta,Calgary,3555,3373,182
+2014,Alberta,Edmonton,1920,1149,771
+2014,Alberta,Fort McMurray - Wood Buffalo,294,87,207
+2014,Alberta,Grand Prairie,111,111,0
+2014,Alberta,Lethbridge,126,102,24
+2014,Alberta,Medicine Hat,64,59,5
+2014,Alberta,Red Deer,126,104,22
+2014,British Columbia,Abbotsford,151,0,0
+2014,British Columbia,Burnaby,58,14,44
+2014,British Columbia,Chilliwack,73,0,0
+2014,British Columbia,Delta/White Rock,19,14,5
+2014,British Columbia,Langley,92,38,54
+2014,British Columbia,Maple Ridge/Pitt Meadows,84,45,39
+2014,British Columbia,Mission,75,0,0
+2014,British Columbia,New Westminster,106,72,34
+2014,British Columbia,North Shore,119,59,60
+2014,British Columbia,Richmond,38,16,22
+2014,British Columbia,Surrey,403,263,140
+2014,British Columbia,Tri-Cities,55,32,23
+2014,British Columbia,Vancouver,1803,1267,536
+2014,New Brunswick,Fredericton,0,0,0
+2014,New Brunswick,Moncton,0,0,0
+2014,New Brunswick,Saint John,0,0,0
+2014,Nunavut,Iqaluit,98,68,30
+2015,British Columbia,Vancouver,1746,1258,488
+2015,Manitoba,Thompson,126,79,47
+2015,Manitoba,Winnipeg,1400,1268,132
+2015,Northwest Territories,Yellowknife,139,122,17
+2015,Nova Scotia,Halifax,284,236,48
+2015,Quebec,Montreal,3016,2805,211
+2015,Saskatchewan,Saskatoon,450,396,54
+2016,Alberta,Calgary,3430,3236,194
+2016,Alberta,Edmonton,1752,1364,388
+2016,Alberta,Fort McMurray - Wood Buffalo,200,182,18
+2016,Alberta,Grand Prairie,127,116,11
+2016,Alberta,Lethbridge,89,81,8
+2016,Alberta,Medicine Hat,61,59,2
+2016,Alberta,Red Deer,149,112,37
+2016,British Columbia,Greater Victoria,1387,1195,192
+2016,British Columbia,Kelowna,233,164,69
+2016,British Columbia,Vancouver,1847,1308,539
+2016,Manitoba,Brandon,171,118,28
+2016,Manitoba,Thompson,98,60,38
+2016,New Brunswick,Fredericton,34,0,0
+2016,New Brunswick,Moncton,59,0,0
+2016,New Brunswick,Saint John,60,0,0
+2016,Newfoundland and Labrador,St.Johns,166,163,3
+2016,Ontario,Brantford,98,74,24
+2016,Ontario,Hamilton,504,0,0
+2016,Ontario,Kingston,137,117,20
+2016,Ontario,North Bay,174,144,30
+2016,Ontario,Peterborough,120,112,8
+2016,Ontario,St. Catharines/Niagara,746,700,46
+2016,Ontario,Thunder Bay,289,279,10
+2016,Prince Edward Island,Summerside,81,66,15
+2016,Yukon,Whitehorse,219,174,45
+2017,British Columbia,Abbotsford,274,170,104
+2017,British Columbia,Agassiz-Harrison,6,0,0
+2017,British Columbia,Burnaby,69,20,49
+2017,British Columbia,Chilliwack,221,0,0
+2017,British Columbia,Delta/White Rock,46,23,23
+2017,British Columbia,Hope,42,0,0
+2017,British Columbia,Langley,206,127,79
+2017,British Columbia,Maple Ridge/Pitt Meadows,124,94,30
+2017,British Columbia,Mission,63,0,0
+2017,British Columbia,New Westminster,133,103,30
+2017,British Columbia,North Shore,100,89,11
+2017,British Columbia,Richmond,70,41,29
+2017,British Columbia,Surrey,602,399,203
+2017,British Columbia,Tri-Cities,117,76,41
+2017,British Columbia,Vancouver,2138,1601,537
+2017,Ontario,Durham,271,217,54
+2018,Alberta,Calgary,2896,2852,44
+2018,Alberta,Edmonton,1943,1873,70
+2018,Alberta,Fort McMurray - Wood Buffalo,185,161,24
+2018,Alberta,Grand Prairie,224,217,7
+2018,Alberta,Lethbridge,218,211,7
+2018,Alberta,Medicine Hat,66,66,0
+2018,Alberta,Red Deer,137,125,12
+2018,British Columbia,Abbotsford,233,134,99
+2018,British Columbia,Greater Victoria,1525,1290,235
+2018,British Columbia,Kelowna,286,234,52
+2018,British Columbia,Vancouver,2181,1522,659
+2018,Manitoba,Brandon,84,41,43
+2018,Manitoba,Thompson,112,65,47
+2018,New Brunswick,Fredericton,70,68,2
+2018,New Brunswick,Moncton,113,104,9
+2018,New Brunswick,Saint John,117,113,4
+2018,Newfoundland and Labrador,St.Johns,165,0,0
+2018,Northwest Territories,Yellowknife,338,311,27
+2018,Nova Scotia,Halifax,220,197,18
+2018,Ontario,Brantford,134,76,58
+2018,Ontario,Durham,291,253,38
+2018,Ontario,Guelph-Wellington,325,279,46
+2018,Ontario,Halton,271,257,14
+2018,Ontario,Hamilton,338,0,0
+2018,Ontario,Kingston,152,138,14
+2018,Ontario,Ottawa,1400,1152,248
+2018,Ontario,St. Catharines/Niagara,1033,975,58
+2018,Ontario,Toronto,8715,8182,533
+2018,Ontario,Windsor,192,182,10
+2018,Ontario,York Region,389,345,44
+2018,Prince Edward Island,Charlottetown,118,91,27
+2018,Prince Edward Island,Summerside,118,91,27
+2018,Quebec,Montreal,3149,2471,678
+2018,Saskatchewan,Prince Albert,77,47,30
+2018,Saskatchewan,Regina,286,267,19
+2018,Saskatchewan,Saskatoon,475,383,92
+2018,Yukon,Whitehorse,195,167,28
+2019,British Columbia,Vancouver,2223,1609,614
+2020,British Columbia,Abbotsford,333,195,138
+2020,British Columbia,Agassiz-Harrison,9,0,0
+2020,British Columbia,Chilliwack,306,223,83
+2020,British Columbia,Greater Victoria,1523,1238,285
+2020,British Columbia,Hope,69,0,0
+2020,British Columbia,Mission,178,90,88

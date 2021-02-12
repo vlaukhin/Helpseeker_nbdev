@@ -1,0 +1,307 @@
+Year,Community,Year_mapping,suicide_value,Province
+2000,St. John's,2000/2002,35,Newfoundland and Labrador
+2000,Halifax,2000/2002,80,Nova Scotia
+2000,Moncton,2000/2002,35,New Brunswick
+2000,Saint John,2000/2002,35,New Brunswick
+2000,Saguenay,2000/2002,95,Quebec
+2000,Quebec,2000/2002,410,Quebec
+2000,Sherbrooke,2000/2002,80,Quebec
+2000,Trois-Rivieres,2000/2002,90,Quebec
+2000,Montreal,2000/2002,1380,Quebec
+2000,Ottawa - Gatineau (partie du Quebec,2000/2002,120,Quebec
+2000,Ottawa - Gatineau (Ontario part,2000/2002,190,Ontario
+2000,Kingston,2000/2002,55,Ontario
+2000,Peterborough,2000/2002,25,Ontario
+2000,Oshawa,2000/2002,70,Ontario
+2000,Toronto,2000/2002,980,Ontario
+2000,Hamilton,2000/2002,150,Ontario
+2000,St. Catharines - Niagara,2000/2002,95,Ontario
+2000,Kitchener - Cambridge - Waterloo,2000/2002,95,Ontario
+2000,Brantford,2000/2002,40,Ontario
+2000,Guelph,2000/2002,20,Ontario
+2000,London,2000/2002,110,Ontario
+2000,Windsor,2000/2002,75,Ontario
+2000,Barrie,2000/2002,15,Ontario
+2000,Greater Sudbury,2000/2002,70,Ontario
+2000,Thunder Bay,2000/2002,35,Ontario
+2000,Winnipeg,2000/2002,225,Manitoba
+2000,Regina,2000/2002,65,Saskatchewan
+2000,Saskatoon,2000/2002,70,Saskatchewan
+2000,Calgary,2000/2002,370,Alberta
+2000,Edmonton,2000/2002,410,Alberta
+2000,Kelowna,2000/2002,50,British Columbia
+2000,Abbotsford - Mission,2000/2002,50,British Columbia
+2000,Vancouver,2000/2002,600,British Columbia
+2000,Victoria,2000/2002,125,British Columbia
+2001,St. John's,2000/2002,35,Newfoundland and Labrador
+2001,Halifax,2000/2002,80,Nova Scotia
+2001,Moncton,2000/2002,35,New Brunswick
+2001,Saint John,2000/2002,35,New Brunswick
+2001,Saguenay,2000/2002,95,Quebec
+2001,Quebec,2000/2002,410,Quebec
+2001,Sherbrooke,2000/2002,80,Quebec
+2001,Trois-Rivieres,2000/2002,90,Quebec
+2001,Montreal,2000/2002,1380,Quebec
+2001,Ottawa - Gatineau (partie du Quebec,2000/2002,120,Quebec
+2001,Ottawa - Gatineau (Ontario part,2000/2002,190,Ontario
+2001,Kingston,2000/2002,55,Ontario
+2001,Peterborough,2000/2002,25,Ontario
+2001,Oshawa,2000/2002,70,Ontario
+2001,Toronto,2000/2002,980,Ontario
+2001,Hamilton,2000/2002,150,Ontario
+2001,St. Catharines - Niagara,2000/2002,95,Ontario
+2001,Kitchener - Cambridge - Waterloo,2000/2002,95,Ontario
+2001,Brantford,2000/2002,40,Ontario
+2001,Guelph,2000/2002,20,Ontario
+2001,London,2000/2002,110,Ontario
+2001,Windsor,2000/2002,75,Ontario
+2001,Barrie,2000/2002,15,Ontario
+2001,Greater Sudbury,2000/2002,70,Ontario
+2001,Thunder Bay,2000/2002,35,Ontario
+2001,Winnipeg,2000/2002,225,Manitoba
+2001,Regina,2000/2002,65,Saskatchewan
+2001,Saskatoon,2000/2002,70,Saskatchewan
+2001,Calgary,2000/2002,370,Alberta
+2001,Edmonton,2000/2002,410,Alberta
+2001,Kelowna,2000/2002,50,British Columbia
+2001,Abbotsford - Mission,2000/2002,50,British Columbia
+2001,Vancouver,2000/2002,600,British Columbia
+2001,Victoria,2000/2002,125,British Columbia
+2002,St. John's,2000/2002,35,Newfoundland and Labrador
+2002,Halifax,2000/2002,80,Nova Scotia
+2002,Moncton,2000/2002,35,New Brunswick
+2002,Saint John,2000/2002,35,New Brunswick
+2002,Saguenay,2000/2002,95,Quebec
+2002,Quebec,2000/2002,410,Quebec
+2002,Sherbrooke,2000/2002,80,Quebec
+2002,Trois-Rivieres,2000/2002,90,Quebec
+2002,Montreal,2000/2002,1380,Quebec
+2002,Ottawa - Gatineau (partie du Quebec,2000/2002,120,Quebec
+2002,Ottawa - Gatineau (Ontario part,2000/2002,190,Ontario
+2002,Kingston,2000/2002,55,Ontario
+2002,Peterborough,2000/2002,25,Ontario
+2002,Oshawa,2000/2002,70,Ontario
+2002,Toronto,2000/2002,980,Ontario
+2002,Hamilton,2000/2002,150,Ontario
+2002,St. Catharines - Niagara,2000/2002,95,Ontario
+2002,Kitchener - Cambridge - Waterloo,2000/2002,95,Ontario
+2002,Brantford,2000/2002,40,Ontario
+2002,Guelph,2000/2002,20,Ontario
+2002,London,2000/2002,110,Ontario
+2002,Windsor,2000/2002,75,Ontario
+2002,Barrie,2000/2002,15,Ontario
+2002,Greater Sudbury,2000/2002,70,Ontario
+2002,Thunder Bay,2000/2002,35,Ontario
+2002,Winnipeg,2000/2002,225,Manitoba
+2002,Regina,2000/2002,65,Saskatchewan
+2002,Saskatoon,2000/2002,70,Saskatchewan
+2002,Calgary,2000/2002,370,Alberta
+2002,Edmonton,2000/2002,410,Alberta
+2002,Kelowna,2000/2002,50,British Columbia
+2002,Abbotsford - Mission,2000/2002,50,British Columbia
+2002,Vancouver,2000/2002,600,British Columbia
+2002,Victoria,2000/2002,125,British Columbia
+2005,St. John's,2005/2007,60,Newfoundland and Labrador
+2005,Halifax,2005/2007,110,Nova Scotia
+2005,Moncton,2005/2007,40,New Brunswick
+2005,Saint John,2005/2007,35,New Brunswick
+2005,Saguenay,2005/2007,75,Quebec
+2005,Quebec,2005/2007,370,Quebec
+2005,Sherbrooke,2005/2007,100,Quebec
+2005,Trois-Rivieres,2005/2007,100,Quebec
+2005,Montreal,2005/2007,1235,Quebec
+2005,Ottawa - Gatineau (partie du Quebec,2005/2007,115,Quebec
+2005,Ottawa - Gatineau (Ontario part,2005/2007,190,Ontario
+2005,Kingston,2005/2007,50,Ontario
+2005,Peterborough,2005/2007,40,Ontario
+2005,Oshawa,2005/2007,80,Ontario
+2005,Toronto,2005/2007,1070,Ontario
+2005,Hamilton,2005/2007,155,Ontario
+2005,St. Catharines - Niagara,2005/2007,135,Ontario
+2005,Kitchener - Cambridge - Waterloo,2005/2007,105,Ontario
+2005,Brantford,2005/2007,40,Ontario
+2005,Guelph,2005/2007,35,Ontario
+2005,London,2005/2007,140,Ontario
+2005,Windsor,2005/2007,85,Ontario
+2005,Barrie,2005/2007,55,Ontario
+2005,Greater Sudbury,2005/2007,55,Ontario
+2005,Thunder Bay,2005/2007,45,Ontario
+2005,Winnipeg,2005/2007,230,Manitoba
+2005,Regina,2005/2007,50,Saskatchewan
+2005,Saskatoon,2005/2007,80,Saskatchewan
+2005,Calgary,2005/2007,310,Alberta
+2005,Edmonton,2005/2007,360,Alberta
+2005,Kelowna,2005/2007,40,British Columbia
+2005,Abbotsford - Mission,2005/2007,30,British Columbia
+2005,Vancouver,2005/2007,560,British Columbia
+2005,Victoria,2005/2007,105,British Columbia
+2006,St. John's,2005/2007,60,Newfoundland and Labrador
+2006,Halifax,2005/2007,110,Nova Scotia
+2006,Moncton,2005/2007,40,New Brunswick
+2006,Saint John,2005/2007,35,New Brunswick
+2006,Saguenay,2005/2007,75,Quebec
+2006,Quebec,2005/2007,370,Quebec
+2006,Sherbrooke,2005/2007,100,Quebec
+2006,Trois-Rivieres,2005/2007,100,Quebec
+2006,Montreal,2005/2007,1235,Quebec
+2006,Ottawa - Gatineau (partie du Quebec,2005/2007,115,Quebec
+2006,Ottawa - Gatineau (Ontario part,2005/2007,190,Ontario
+2006,Kingston,2005/2007,50,Ontario
+2006,Peterborough,2005/2007,40,Ontario
+2006,Oshawa,2005/2007,80,Ontario
+2006,Toronto,2005/2007,1070,Ontario
+2006,Hamilton,2005/2007,155,Ontario
+2006,St. Catharines - Niagara,2005/2007,135,Ontario
+2006,Kitchener - Cambridge - Waterloo,2005/2007,105,Ontario
+2006,Brantford,2005/2007,40,Ontario
+2006,Guelph,2005/2007,35,Ontario
+2006,London,2005/2007,140,Ontario
+2006,Windsor,2005/2007,85,Ontario
+2006,Barrie,2005/2007,55,Ontario
+2006,Greater Sudbury,2005/2007,55,Ontario
+2006,Thunder Bay,2005/2007,45,Ontario
+2006,Winnipeg,2005/2007,230,Manitoba
+2006,Regina,2005/2007,50,Saskatchewan
+2006,Saskatoon,2005/2007,80,Saskatchewan
+2006,Calgary,2005/2007,310,Alberta
+2006,Edmonton,2005/2007,360,Alberta
+2006,Kelowna,2005/2007,40,British Columbia
+2006,Abbotsford - Mission,2005/2007,30,British Columbia
+2006,Vancouver,2005/2007,560,British Columbia
+2006,Victoria,2005/2007,105,British Columbia
+2007,St. John's,2005/2007,60,Newfoundland and Labrador
+2007,Halifax,2005/2007,110,Nova Scotia
+2007,Moncton,2005/2007,40,New Brunswick
+2007,Saint John,2005/2007,35,New Brunswick
+2007,Saguenay,2005/2007,75,Quebec
+2007,Quebec,2005/2007,370,Quebec
+2007,Sherbrooke,2005/2007,100,Quebec
+2007,Trois-Rivieres,2005/2007,100,Quebec
+2007,Montreal,2005/2007,1235,Quebec
+2007,Ottawa - Gatineau (partie du Quebec,2005/2007,115,Quebec
+2007,Ottawa - Gatineau (Ontario part,2005/2007,190,Ontario
+2007,Kingston,2005/2007,50,Ontario
+2007,Peterborough,2005/2007,40,Ontario
+2007,Oshawa,2005/2007,80,Ontario
+2007,Toronto,2005/2007,1070,Ontario
+2007,Hamilton,2005/2007,155,Ontario
+2007,St. Catharines - Niagara,2005/2007,135,Ontario
+2007,Kitchener - Cambridge - Waterloo,2005/2007,105,Ontario
+2007,Brantford,2005/2007,40,Ontario
+2007,Guelph,2005/2007,35,Ontario
+2007,London,2005/2007,140,Ontario
+2007,Windsor,2005/2007,85,Ontario
+2007,Barrie,2005/2007,55,Ontario
+2007,Greater Sudbury,2005/2007,55,Ontario
+2007,Thunder Bay,2005/2007,45,Ontario
+2007,Winnipeg,2005/2007,230,Manitoba
+2007,Regina,2005/2007,50,Saskatchewan
+2007,Saskatoon,2005/2007,80,Saskatchewan
+2007,Calgary,2005/2007,310,Alberta
+2007,Edmonton,2005/2007,360,Alberta
+2007,Kelowna,2005/2007,40,British Columbia
+2007,Abbotsford - Mission,2005/2007,30,British Columbia
+2007,Vancouver,2005/2007,560,British Columbia
+2007,Victoria,2005/2007,105,British Columbia
+2010,St. John's,2010/2012,60,Newfoundland and Labrador
+2010,Halifax,2010/2012,145,Nova Scotia
+2010,Moncton,2010/2012,45,New Brunswick
+2010,Saint John,2010/2012,55,New Brunswick
+2010,Saguenay,2010/2012,70,Quebec
+2010,Quebec,2010/2012,310,Quebec
+2010,Sherbrooke,2010/2012,90,Quebec
+2010,Trois-Rivieres,2010/2012,85,Quebec
+2010,Montreal,2010/2012,1290,Quebec
+2010,Ottawa - Gatineau (partie du Quebec,2010/2012,135,Quebec
+2010,Ottawa - Gatineau (Ontario part,2010/2012,220,Ontario
+2010,Kingston,2010/2012,60,Ontario
+2010,Peterborough,2010/2012,30,Ontario
+2010,Oshawa,2010/2012,90,Ontario
+2010,Toronto,2010/2012,1210,Ontario
+2010,Hamilton,2010/2012,190,Ontario
+2010,St. Catharines - Niagara,2010/2012,125,Ontario
+2010,Kitchener - Cambridge - Waterloo,2010/2012,140,Ontario
+2010,Brantford,2010/2012,50,Ontario
+2010,Guelph,2010/2012,35,Ontario
+2010,London,2010/2012,125,Ontario
+2010,Windsor,2010/2012,105,Ontario
+2010,Barrie,2010/2012,70,Ontario
+2010,Greater Sudbury,2010/2012,60,Ontario
+2010,Thunder Bay,2010/2012,60,Ontario
+2010,Winnipeg,2010/2012,225,Manitoba
+2010,Regina,2010/2012,75,Saskatchewan
+2010,Saskatoon,2010/2012,85,Saskatchewan
+2010,Calgary,2010/2012,395,Alberta
+2010,Edmonton,2010/2012,445,Alberta
+2010,Kelowna,2010/2012,70,British Columbia
+2010,Abbotsford - Mission,2010/2012,35,British Columbia
+2010,Vancouver,2010/2012,630,British Columbia
+2010,Victoria,2010/2012,140,British Columbia
+2011,St. John's,2010/2012,60,Newfoundland and Labrador
+2011,Halifax,2010/2012,145,Nova Scotia
+2011,Moncton,2010/2012,45,New Brunswick
+2011,Saint John,2010/2012,55,New Brunswick
+2011,Saguenay,2010/2012,70,Quebec
+2011,Quebec,2010/2012,310,Quebec
+2011,Sherbrooke,2010/2012,90,Quebec
+2011,Trois-Rivieres,2010/2012,85,Quebec
+2011,Montreal,2010/2012,1290,Quebec
+2011,Ottawa - Gatineau (partie du Quebec,2010/2012,135,Quebec
+2011,Ottawa - Gatineau (Ontario part,2010/2012,220,Ontario
+2011,Kingston,2010/2012,60,Ontario
+2011,Peterborough,2010/2012,30,Ontario
+2011,Oshawa,2010/2012,90,Ontario
+2011,Toronto,2010/2012,1210,Ontario
+2011,Hamilton,2010/2012,190,Ontario
+2011,St. Catharines - Niagara,2010/2012,125,Ontario
+2011,Kitchener - Cambridge - Waterloo,2010/2012,140,Ontario
+2011,Brantford,2010/2012,50,Ontario
+2011,Guelph,2010/2012,35,Ontario
+2011,London,2010/2012,125,Ontario
+2011,Windsor,2010/2012,105,Ontario
+2011,Barrie,2010/2012,70,Ontario
+2011,Greater Sudbury,2010/2012,60,Ontario
+2011,Thunder Bay,2010/2012,60,Ontario
+2011,Winnipeg,2010/2012,225,Manitoba
+2011,Regina,2010/2012,75,Saskatchewan
+2011,Saskatoon,2010/2012,85,Saskatchewan
+2011,Calgary,2010/2012,395,Alberta
+2011,Edmonton,2010/2012,445,Alberta
+2011,Kelowna,2010/2012,70,British Columbia
+2011,Abbotsford - Mission,2010/2012,35,British Columbia
+2011,Vancouver,2010/2012,630,British Columbia
+2011,Victoria,2010/2012,140,British Columbia
+2012,St. John's,2010/2012,60,Newfoundland and Labrador
+2012,Halifax,2010/2012,145,Nova Scotia
+2012,Moncton,2010/2012,45,New Brunswick
+2012,Saint John,2010/2012,55,New Brunswick
+2012,Saguenay,2010/2012,70,Quebec
+2012,Quebec,2010/2012,310,Quebec
+2012,Sherbrooke,2010/2012,90,Quebec
+2012,Trois-Rivieres,2010/2012,85,Quebec
+2012,Montreal,2010/2012,1290,Quebec
+2012,Ottawa - Gatineau (partie du Quebec,2010/2012,135,Quebec
+2012,Ottawa - Gatineau (Ontario part,2010/2012,220,Ontario
+2012,Kingston,2010/2012,60,Ontario
+2012,Peterborough,2010/2012,30,Ontario
+2012,Oshawa,2010/2012,90,Ontario
+2012,Toronto,2010/2012,1210,Ontario
+2012,Hamilton,2010/2012,190,Ontario
+2012,St. Catharines - Niagara,2010/2012,125,Ontario
+2012,Kitchener - Cambridge - Waterloo,2010/2012,140,Ontario
+2012,Brantford,2010/2012,50,Ontario
+2012,Guelph,2010/2012,35,Ontario
+2012,London,2010/2012,125,Ontario
+2012,Windsor,2010/2012,105,Ontario
+2012,Barrie,2010/2012,70,Ontario
+2012,Greater Sudbury,2010/2012,60,Ontario
+2012,Thunder Bay,2010/2012,60,Ontario
+2012,Winnipeg,2010/2012,225,Manitoba
+2012,Regina,2010/2012,75,Saskatchewan
+2012,Saskatoon,2010/2012,85,Saskatchewan
+2012,Calgary,2010/2012,395,Alberta
+2012,Edmonton,2010/2012,445,Alberta
+2012,Kelowna,2010/2012,70,British Columbia
+2012,Abbotsford - Mission,2010/2012,35,British Columbia
+2012,Vancouver,2010/2012,630,British Columbia
+2012,Victoria,2010/2012,140,British Columbia

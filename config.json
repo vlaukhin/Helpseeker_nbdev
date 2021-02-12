@@ -1,0 +1,26 @@
+{
+    "feature_encoding_map_dir":"data/FeatureMaps",
+    "target_path":"data/final_targets",
+    "region_merge_columns":
+    {
+        "CMA":["CMANAME","PRNAME"],
+        "CSD":["CSDNAME","PRNAME"],
+        "PR":["PRENAME"],
+        "HR":["Geo Name"],
+        "ER":["Geo Name"]
+    },    
+    "target_features":
+    {
+        "homeless":["PIT Total"],
+        "suicide":["suicide_value"],
+        "violence":["violence_rate"]
+    },
+    "features_meta_table_dir":"feature_meta_tables",
+    "target_df_regions":["Community","Province"],   
+    "stats_canada":
+    {
+        "stats_can_regions":["CMA","HR","ER","PR"],
+        "stats_can_feature_by_ids_dir":"data/345_stats_canada_filter_by_year_columns"
+    },
+    "polygon_path":"data/TargetPolygons"    
+}

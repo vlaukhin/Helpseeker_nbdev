@@ -1,0 +1,393 @@
+Year,Province,Community,violence_rate,nat_avg
+2008,British Columbia,Abbotsford,1188,1357.159959
+2008,Ontario,Guelph,724,1357.159959
+2008,New Brunswick,Saint John,2271,1357.159959
+2008,Saskatchewan,Saskatoon,2002,1357.159959
+2008,Ontario,Greater Sudbury,1087,1357.159959
+2008,Quebec,Sherbrooke,779,1357.159959
+2008,Alberta,Grande Prairie,1866,1357.159959
+2008,Prince Edward Island,Summerside,1185,1357.159959
+2008,New Brunswick,Fredericton,1126,1357.159959
+2008,Manitoba,Thompson,6168,1357.159959
+2008,Alberta,Edmonton,1143,1357.159959
+2008,Ontario,Thunder Bay,1797,1357.159959
+2008,Ontario,Toronto,1217,1357.159959
+2008,British Columbia,Chilliwack,1200,1357.159959
+2008,Quebec,Trois-Rivieres,730,1357.159959
+2008,Prince Edward Island,Charlottetown,1295,1357.159959
+2008,Quebec,Saguenay,1023,1357.159959
+2008,Nova Scotia,Halifax,1993,1357.159959
+2008,British Columbia,Richmond,694,1357.159959
+2008,Ontario,Hamilton,1138,1357.159959
+2008,Alberta,Medicine Hat,1084,1357.159959
+2008,New Brunswick,Moncton,,1357.159959
+2008,Ontario,London,996,1357.159959
+2008,Quebec,Montreal,1291,1357.159959
+2008,British Columbia,New Westminster,1493,1357.159959
+2008,Alberta,Lethbridge,1548,1357.159959
+2008,Ontario,North Bay,1025,1357.159959
+2008,British Columbia,Vancouver,1440,1357.159959
+2008,Ontario,Kingston,1240,1357.159959
+2008,British Columbia,Kelowna,,1357.159959
+2008,Saskatchewan,Prince Albert,2391,1357.159959
+2008,Nunavut,Iqaluit,17371,1357.159959
+2008,Quebec,Quebec,473,1357.159959
+2008,Alberta,Red Deer,1621,1357.159959
+2008,British Columbia,Hope,2373,1357.159959
+2008,Saskatchewan,Regina,1827,1357.159959
+2008,Ontario,Ottawa,669,1357.159959
+2008,Alberta,Calgary,740,1357.159959
+2008,British Columbia,Mission,1606,1357.159959
+2008,Ontario,Barrie,878,1357.159959
+2008,Ontario,Brantford,1654,1357.159959
+2008,Yukon,Whitehorse,2640,1357.159959
+2008,Nova Scotia,Windsor,925.3,1357.159959
+2008,British Columbia,Burnaby,1174,1357.159959
+2008,Manitoba,Winnipeg,"1,438.10",1357.159959
+2008,British Columbia,Victoria,1622,1357.159959
+2008,Northwest Territories,Yellowknife,4553,1357.159959
+2008,Manitoba,Brandon,1322,1357.159959
+2008,Ontario,Windsor,"1,265.00",1357.159959
+2009,Alberta,Grande Prairie,2151,1450
+2009,Quebec,Sherbrooke,829,1450
+2009,Ontario,Brantford,1711,1450
+2009,Ontario,Barrie,917,1450
+2009,British Columbia,Mission,1814,1450
+2009,Saskatchewan,Saskatoon,1928,1450
+2009,Ontario,Ottawa,671,1450
+2009,Ontario,Greater Sudbury,1108,1450
+2009,British Columbia,Kelowna,1978,1450
+2009,Prince Edward Island,Summerside,2129,1450
+2009,New Brunswick,Saint John,2479,1450
+2009,Saskatchewan,Prince Albert,3250,1450
+2009,Ontario,Guelph,780,1450
+2009,Nunavut,Iqaluit,14286,1450
+2009,Quebec,Saguenay,992,1450
+2009,Manitoba,Winnipeg,"1,566.70",1450
+2009,Nova Scotia,Windsor,760.9,1450
+2009,Quebec,Quebec,966,1450
+2009,British Columbia,Richmond,832,1450
+2009,British Columbia,Hope,2785,1450
+2009,Manitoba,Brandon,1478,1450
+2009,Ontario,Hamilton,1206,1450
+2009,Saskatchewan,Regina,1801,1450
+2009,Ontario,Windsor,"1,376.80",1450
+2009,Ontario,Kingston,1284,1450
+2009,Nova Scotia,Halifax,2035,1450
+2009,New Brunswick,Fredericton,1365,1450
+2009,British Columbia,Victoria,1789,1450
+2009,Alberta,Calgary,763,1450
+2009,Alberta,Medicine Hat,1302,1450
+2009,British Columbia,Vancouver,1425,1450
+2009,British Columbia,Abbotsford,1295,1450
+2009,New Brunswick,Moncton,,1450
+2009,Prince Edward Island,Charlottetown,1366,1450
+2009,Quebec,Trois-Rivieres,758,1450
+2009,Ontario,London,1006,1450
+2009,Ontario,Toronto,1184,1450
+2009,British Columbia,Burnaby,1201,1450
+2009,British Columbia,Chilliwack,1358,1450
+2009,Quebec,Montreal,1248,1450
+2009,Alberta,Red Deer,2231,1450
+2009,Northwest Territories,Yellowknife,4657,1450
+2009,Ontario,Thunder Bay,1854,1450
+2009,Ontario,North Bay,861,1450
+2009,Yukon,Whitehorse,2854,1450
+2009,British Columbia,New Westminster,1380,1450
+2009,Alberta,Edmonton,1174,1450
+2009,Manitoba,Thompson,6139,1450
+2009,Alberta,Lethbridge,1860,1450
+2010,British Columbia,Kelowna,1718,1493.7
+2010,Nova Scotia,Windsor,"1,143.60",1493.7
+2010,British Columbia,New Westminster,1537,1493.7
+2010,Alberta,Medicine Hat,1199,1493.7
+2010,British Columbia,Hope,2332,1493.7
+2010,Quebec,Quebec,960,1493.7
+2010,Ontario,North Bay,949,1493.7
+2010,British Columbia,Mission,1823,1493.7
+2010,Alberta,Lethbridge,1605,1493.7
+2010,Quebec,Montreal,1202,1493.7
+2010,New Brunswick,Moncton,,1493.7
+2010,Ontario,London,1028,1493.7
+2010,Nunavut,Iqaluit,15312,1493.7
+2010,Saskatchewan,Prince Albert,3238,1493.7
+2010,Ontario,Kingston,1228,1493.7
+2010,Manitoba,Winnipeg,"1,499.60",1493.7
+2010,Ontario,Ottawa,618,1493.7
+2010,Ontario,Barrie,911,1493.7
+2010,British Columbia,Abbotsford,1209,1493.7
+2010,Northwest Territories,Yellowknife,4949,1493.7
+2010,Saskatchewan,Saskatoon,1864,1493.7
+2010,Prince Edward Island,Summerside,2280,1493.7
+2010,Yukon,Whitehorse,3280,1493.7
+2010,Ontario,Thunder Bay,1898,1493.7
+2010,British Columbia,Chilliwack,1227,1493.7
+2010,Ontario,Toronto,1124,1493.7
+2010,New Brunswick,Fredericton,1392,1493.7
+2010,Alberta,Red Deer,2501,1493.7
+2010,Quebec,Sherbrooke,673,1493.7
+2010,Ontario,Brantford,1821,1493.7
+2010,Alberta,Grande Prairie,2603,1493.7
+2010,Ontario,Greater Sudbury,1053,1493.7
+2010,British Columbia,Burnaby,949,1493.7
+2010,Manitoba,Thompson,6833,1493.7
+2010,Prince Edward Island,Charlottetown,1535,1493.7
+2010,Ontario,Windsor,"1,391.00",1493.7
+2010,New Brunswick,Saint John,2509,1493.7
+2010,Ontario,Guelph,841,1493.7
+2010,Ontario,Hamilton,1214,1493.7
+2010,Saskatchewan,Regina,1717,1493.7
+2010,Alberta,Calgary,795,1493.7
+2010,British Columbia,Vancouver,1430,1493.7
+2010,British Columbia,Victoria,1980,1493.7
+2010,Manitoba,Brandon,1959,1493.7
+2010,British Columbia,Richmond,780,1493.7
+2010,Alberta,Edmonton,1200,1493.7
+2010,Nova Scotia,Halifax,1922,1493.7
+2010,Quebec,Saguenay,1067,1493.7
+2010,Quebec,Trois-Rivieres,871,1493.7
+2011,British Columbia,Victoria,1555,1346.6
+2011,Quebec,Trois-Rivieres,741,1346.6
+2011,Ontario,Toronto,1120,1346.6
+2011,Ontario,Thunder Bay,1788,1346.6
+2011,British Columbia,Mission,1649,1346.6
+2011,Northwest Territories,Yellowknife,4092,1346.6
+2011,New Brunswick,Moncton,,1346.6
+2011,Alberta,Red Deer,2397,1346.6
+2011,Prince Edward Island,Summerside,1822,1346.6
+2011,Saskatchewan,Regina,1588,1346.6
+2011,Nova Scotia,Windsor,"1,082.70",1346.6
+2011,Quebec,Quebec,874,1346.6
+2011,British Columbia,Richmond,667,1346.6
+2011,Quebec,Saguenay,1009,1346.6
+2011,Saskatchewan,Prince Albert,2845,1346.6
+2011,Ontario,Windsor,"1,228.00",1346.6
+2011,Ontario,Ottawa,542,1346.6
+2011,New Brunswick,Saint John,2221,1346.6
+2011,Saskatchewan,Saskatoon,1795,1346.6
+2011,Ontario,North Bay,1045,1346.6
+2011,Quebec,Sherbrooke,763,1346.6
+2011,Yukon,Whitehorse,2939,1346.6
+2011,Manitoba,Winnipeg,"1,413.80",1346.6
+2011,British Columbia,New Westminster,1261,1346.6
+2011,Manitoba,Thompson,7810,1346.6
+2011,British Columbia,Vancouver,1317,1346.6
+2011,Quebec,Montreal,1186,1346.6
+2011,British Columbia,Chilliwack,1298,1346.6
+2011,Alberta,Edmonton,1151,1346.6
+2011,Ontario,Greater Sudbury,969,1346.6
+2011,Ontario,Kingston,1135,1346.6
+2011,Manitoba,Brandon,1771,1346.6
+2011,Prince Edward Island,Charlottetown,1133,1346.6
+2011,British Columbia,Kelowna,1587,1346.6
+2011,Alberta,Lethbridge,1306,1346.6
+2011,Ontario,Brantford,1533,1346.6
+2011,New Brunswick,Fredericton,1248,1346.6
+2011,Ontario,Guelph,865,1346.6
+2011,British Columbia,Hope,1869,1346.6
+2011,Alberta,Calgary,738,1346.6
+2011,British Columbia,Burnaby,899,1346.6
+2011,Ontario,Hamilton,1155,1346.6
+2011,Nunavut,Iqaluit,12266,1346.6
+2011,Ontario,Barrie,706,1346.6
+2011,Nova Scotia,Halifax,1564,1346.6
+2011,Alberta,Grande Prairie,2317,1346.6
+2011,Alberta,Medicine Hat,1079,1346.6
+2011,Ontario,London,960,1346.6
+2011,British Columbia,Abbotsford,961,1346.6
+2012,Manitoba,Winnipeg,"1,385.60",1310.8
+2012,Nunavut,Iqaluit,11550,1310.8
+2012,Saskatchewan,Prince Albert,2004,1310.8
+2012,Ontario,Thunder Bay,1630,1310.8
+2012,British Columbia,Mission,1424,1310.8
+2012,Yukon,Whitehorse,2907,1310.8
+2012,Ontario,Brantford,1368,1310.8
+2012,British Columbia,Hope,1866,1310.8
+2012,Quebec,Quebec,973,1310.8
+2012,Quebec,Saguenay,1163,1310.8
+2012,Northwest Territories,Yellowknife,3904,1310.8
+2012,Ontario,Guelph,940,1310.8
+2012,Alberta,Calgary,648,1310.8
+2012,Alberta,Red Deer,2499,1310.8
+2012,British Columbia,Victoria,1425,1310.8
+2012,Alberta,Medicine Hat,1146,1310.8
+2012,Ontario,Hamilton,1002,1310.8
+2012,Quebec,Sherbrooke,724,1310.8
+2012,British Columbia,Burnaby,741,1310.8
+2012,British Columbia,Vancouver,1185,1310.8
+2012,Saskatchewan,Regina,1421,1310.8
+2012,Prince Edward Island,Summerside,1811,1310.8
+2012,British Columbia,Richmond,494,1310.8
+2012,British Columbia,Abbotsford,749,1310.8
+2012,British Columbia,Chilliwack,1060,1310.8
+2012,Quebec,Trois-Rivieres,755,1310.8
+2012,Nova Scotia,Windsor,"1,058.40",1310.8
+2012,Alberta,Lethbridge,1328,1310.8
+2012,Manitoba,Thompson,7063,1310.8
+2012,Quebec,Montreal,1084,1310.8
+2012,Saskatchewan,Saskatoon,1552,1310.8
+2012,Ontario,Barrie,714,1310.8
+2012,New Brunswick,Moncton,,1310.8
+2012,Prince Edward Island,Charlottetown,1208,1310.8
+2012,British Columbia,New Westminster,1166,1310.8
+2012,Alberta,Grande Prairie,2103,1310.8
+2012,Ontario,Greater Sudbury,910,1310.8
+2012,Alberta,Edmonton,1208,1310.8
+2012,Ontario,Kingston,1033,1310.8
+2012,Ontario,London,794,1310.8
+2012,New Brunswick,Saint John,1999,1310.8
+2012,Ontario,North Bay,1071,1310.8
+2012,New Brunswick,Fredericton,1510,1310.8
+2012,Ontario,Ottawa,531,1310.8
+2012,Nova Scotia,Halifax,1329,1310.8
+2012,Ontario,Windsor,"1,324.50",1310.8
+2012,British Columbia,Kelowna,1366,1310.8
+2012,Manitoba,Brandon,1567,1310.8
+2012,Ontario,Toronto,1008,1310.8
+2013,Quebec,Saguenay,998,1200.9
+2013,British Columbia,Vancouver,1169,1200.9
+2013,Saskatchewan,Saskatoon,1465,1200.9
+2013,British Columbia,Richmond,514,1200.9
+2013,New Brunswick,Fredericton,1031,1200.9
+2013,Ontario,Toronto,923,1200.9
+2013,Alberta,Grande Prairie,2063,1200.9
+2013,Alberta,Medicine Hat,1015,1200.9
+2013,Quebec,Trois-Rivieres,886,1200.9
+2013,Ontario,Guelph,829,1200.9
+2013,New Brunswick,Saint John,1936,1200.9
+2013,Alberta,Calgary,647,1200.9
+2013,Prince Edward Island,Charlottetown,797,1200.9
+2013,Ontario,Greater Sudbury,860,1200.9
+2013,British Columbia,Victoria,1364,1200.9
+2013,Ontario,Windsor,"1,241.50",1200.9
+2013,Ontario,North Bay,1072,1200.9
+2013,British Columbia,New Westminster,1095,1200.9
+2013,Ontario,Kingston,876,1200.9
+2013,Nova Scotia,Windsor,990.6,1200.9
+2013,Ontario,Barrie,722,1200.9
+2013,Quebec,Montreal,981,1200.9
+2013,Alberta,Edmonton,1123,1200.9
+2013,Alberta,Lethbridge,1308,1200.9
+2013,New Brunswick,Moncton,,1200.9
+2013,Manitoba,Thompson,6436,1200.9
+2013,Ontario,London,783,1200.9
+2013,British Columbia,Abbotsford,661,1200.9
+2013,British Columbia,Mission,1207,1200.9
+2013,Northwest Territories,Yellowknife,3516,1200.9
+2013,Manitoba,Winnipeg,"1,213.70",1200.9
+2013,Nova Scotia,Halifax,1298,1200.9
+2013,British Columbia,Hope,1610,1200.9
+2013,Ontario,Ottawa,619,1200.9
+2013,Saskatchewan,Regina,1268,1200.9
+2013,British Columbia,Burnaby,640,1200.9
+2013,Alberta,Red Deer,2061,1200.9
+2013,Ontario,Hamilton,888,1200.9
+2013,British Columbia,Chilliwack,876,1200.9
+2013,Prince Edward Island,Summerside,1406,1200.9
+2013,British Columbia,Kelowna,1030,1200.9
+2013,Ontario,Thunder Bay,1685,1200.9
+2013,Quebec,Quebec,981,1200.9
+2013,Quebec,Sherbrooke,684,1200.9
+2013,Yukon,Whitehorse,2866,1200.9
+2013,Saskatchewan,Prince Albert,2008,1200.9
+2013,Nunavut,Iqaluit,10790,1200.9
+2013,Manitoba,Brandon,1311,1200.9
+2013,Ontario,Brantford,1247,1200.9
+2014,Ontario,Thunder Bay,1723,1088.4
+2014,Alberta,Medicine Hat,1010,1088.4
+2014,Ontario,Toronto,861,1088.4
+2014,Alberta,Calgary,686,1088.4
+2014,Quebec,Trois-Rivieres,846,1088.4
+2014,British Columbia,Vancouver,1064,1088.4
+2014,British Columbia,Burnaby,648,1088.4
+2014,British Columbia,Victoria,1498,1088.4
+2014,Ontario,Brantford,1158,1088.4
+2014,Yukon,Whitehorse,3172,1088.4
+2014,Manitoba,Brandon,1583,1088.4
+2014,Ontario,Windsor,"1,195.90",1088.4
+2014,Ontario,Barrie,753,1088.4
+2014,Nova Scotia,Windsor,788.8,1088.4
+2014,Manitoba,Winnipeg,"1,166.80",1088.4
+2014,British Columbia,Abbotsford,801,1088.4
+2014,Prince Edward Island,Charlottetown,657,1088.4
+2014,British Columbia,Chilliwack,872,1088.4
+2014,Alberta,Grande Prairie,2368,1088.4
+2014,Quebec,Saguenay,1061,1088.4
+2014,Quebec,Montreal,912,1088.4
+2014,Ontario,Guelph,684,1088.4
+2014,British Columbia,Richmond,506,1088.4
+2014,Ontario,Kingston,794,1088.4
+2014,British Columbia,New Westminster,957,1088.4
+2014,Saskatchewan,Regina,1250,1088.4
+2014,Nova Scotia,Halifax,1113,1088.4
+2014,Alberta,Red Deer,1998,1088.4
+2014,Ontario,Hamilton,885,1088.4
+2014,British Columbia,Kelowna,983,1088.4
+2014,Ontario,North Bay,1479,1088.4
+2014,Quebec,Quebec,916,1088.4
+2014,British Columbia,Hope,1612,1088.4
+2014,Ontario,Ottawa,580,1088.4
+2014,Saskatchewan,Prince Albert,2658,1088.4
+2014,Northwest Territories,Yellowknife,2614,1088.4
+2014,Ontario,Greater Sudbury,837,1088.4
+2014,Nunavut,Iqaluit,8920,1088.4
+2014,Saskatchewan,Saskatoon,1361,1088.4
+2014,New Brunswick,Saint John,1874,1088.4
+2014,Quebec,Sherbrooke,725,1088.4
+2014,New Brunswick,Fredericton,1121,1088.4
+2014,Ontario,London,685,1088.4
+2014,Prince Edward Island,Summerside,1262,1088.4
+2014,British Columbia,Mission,953,1088.4
+2014,New Brunswick,Moncton,21,1088.4
+2014,Alberta,Edmonton,1111,1088.4
+2014,Manitoba,Thompson,5966,1088.4
+2014,Alberta,Lethbridge,1673,1088.4
+2015,Nunavut,Iqaluit,9032,1113.9
+2015,Ontario,North Bay,1408,1113.9
+2015,Ontario,London,784,1113.9
+2015,Ontario,Windsor,"1,293.10",1113.9
+2015,Alberta,Medicine Hat,1075,1113.9
+2015,British Columbia,Abbotsford,805,1113.9
+2015,Ontario,Barrie,673,1113.9
+2015,British Columbia,Kelowna,996,1113.9
+2015,British Columbia,New Westminster,1009,1113.9
+2015,Alberta,Lethbridge,1566,1113.9
+2015,Manitoba,Winnipeg,"1,226.50",1113.9
+2015,Ontario,Kingston,806,1113.9
+2015,Nova Scotia,Windsor,764.1,1113.9
+2015,Ontario,Ottawa,567,1113.9
+2015,Quebec,Montreal,943,1113.9
+2015,New Brunswick,Moncton,21,1113.9
+2015,British Columbia,Mission,1155,1113.9
+2015,Manitoba,Thompson,6458,1113.9
+2015,Ontario,Brantford,1134,1113.9
+2015,Yukon,Whitehorse,2766,1113.9
+2015,Prince Edward Island,Summerside,1522,1113.9
+2015,Alberta,Edmonton,1165,1113.9
+2015,Ontario,Thunder Bay,1567,1113.9
+2015,Quebec,Sherbrooke,627,1113.9
+2015,Prince Edward Island,Charlottetown,720,1113.9
+2015,New Brunswick,Fredericton,1063,1113.9
+2015,Saskatchewan,Saskatoon,1220,1113.9
+2015,Ontario,Toronto,891,1113.9
+2015,Alberta,Grande Prairie,2161,1113.9
+2015,New Brunswick,Saint John,1982,1113.9
+2015,Alberta,Calgary,721,1113.9
+2015,Ontario,Greater Sudbury,788,1113.9
+2015,Quebec,Saguenay,1034,1113.9
+2015,Quebec,Trois-Rivieres,927,1113.9
+2015,British Columbia,Richmond,414,1113.9
+2015,British Columbia,Burnaby,594,1113.9
+2015,Ontario,Guelph,673,1113.9
+2015,Saskatchewan,Regina,1196,1113.9
+2015,British Columbia,Vancouver,1024,1113.9
+2015,Nova Scotia,Halifax,1101,1113.9
+2015,Alberta,Red Deer,1865,1113.9
+2015,Ontario,Hamilton,760,1113.9
+2015,British Columbia,Victoria,1531,1113.9
+2015,British Columbia,Chilliwack,898,1113.9
+2015,Quebec,Quebec,972,1113.9
+2015,British Columbia,Hope,1816,1113.9
+2015,Saskatchewan,Prince Albert,2774,1113.9
+2015,Manitoba,Brandon,1619,1113.9
+2015,Northwest Territories,Yellowknife,"3,332.00",1113.9
